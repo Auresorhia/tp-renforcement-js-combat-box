@@ -168,7 +168,7 @@ class Combat {
                 console.log(`${premier.name} est K.O ! ${deuxieme.name}!`);
                 return;
             } else {
-                console.log(`${premier.name} tient bon avec ${premier.stamina} points de stamina`);
+                console.log(`${premier.name} tient bon !`);
             }
 
             //
